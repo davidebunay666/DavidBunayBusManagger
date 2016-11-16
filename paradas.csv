@@ -1,0 +1,186 @@
+CODIGO;UBICACIÓN;PARADA TURISTICA
+AE01;Abelardo J.Andrade & Enrique Malo Abad;Racar
+RP02;Ave. Abelardo J.Andrade & Ave. De Los Cerezos;NULL
+RP02F;Ave. Abelardo J.Andrade & Ave. De Los Cerezos;NULL
+IS03;Emilio Lopez Ortega & De la Verbena;Cebollar
+IS03F;Emilio Lopez Ortega & De la Verbena;Cebollar
+AE04;Abelardo J.Andrade & Emilio Lopez Ortega;NULL
+AE04F;Abelardo J.Andrade & Emilio Lopez Ortega;NULL
+AC05;Abelardo J.Andrade y Av.Del Chofer;NULL
+AC05F;Abelardo J.Andrade y Av.Del Chofer;NULL
+AA06;Abelardo J.Andrade & Ave de las Americas;NULL
+AA06F;Abelardo J.Andrade & Ave de las Americas;NULL
+LH07;Luis Cordero & Ave Heroes de Verdeloma;NULL
+LH07F;Luis Cordero & Ave Heroes de Verdeloma;NULL
+HT08;Ave Heroes de Verdeloma & Tarqui;NULL
+HT08F;Ave Heroes de Verdeloma & Tarqui;NULL
+JA09;Juan Montalvo & Antonio Vega Munoz;NULL
+JM10;Juan Montalvo & Mariscal Lamar;NULL
+AO11;Ave de las Americas & Av Ordoñez Lasso;NULL
+AO11F;Ave de las Americas & Av Ordoñez Lasso;NULL
+ArenalA12;Avenida de las Americas & Ecuador;Arenal
+ArenalA12F;Avenida de las Americas & Ecuador;Arenal
+RB13;Ave Remigio Crespo Toral & Brasil;NULL
+RB13F;Ave Remigio Crespo Toral & Brasil;NULL
+RU14;Ave Remigio Crespo Toral & Unidad Nacional;NULL
+RU14F;Ave Remigio Crespo Toral & Unidad Nacional;NULL
+RL15;Ave Remigio Crespo Toral & Av Loja;NULL
+RL15F;Ave Remigio Crespo Toral & Av Loja;NULL
+EstadioR16;Roberto Crespo Toral  & Avenida del Estadio;Estadio
+EstadioR16F;Roberto Crespo Toral  & Avenida del Estadio;Estadio
+RD17;Roberto Crespo Toral & Avenida Diez de Agosto;NULL
+RD17F;Roberto Crespo Toral & Avenida Diez de Agosto;NULL
+UDA18;Las Garzas & Los Cisnes;Universidad del Azuay
+UDA18F;Las Garzas & Los Cisnes;Universidad del Azuay
+MA19;Ave 24 de Mayo & Angel Paredes;NULL
+MA19F;Ave 24 de Mayo & Angel Paredes;NULL
+IEES20;Ave 24 de Mayo & Camino A Rayoloma;Hospital del IEES
+PI21;Octavio Chacon Moscoso & Calle Primera;Parque Industrial
+EG22;Avenue Espania & Gil Ramirez Davalos;NULL
+EG22F;Avenue Espania & Gil Ramirez Davalos;NULL
+Aeropuerto23;Avenue Espania & La Castellana;Aeropuerto
+Aeropuerto23F;Avenue Espania & La Castellana;Aeropuerto
+Terminal24;Avenue Espania & Chapetones;Terminal
+Terminal24F;Avenue Espania & Chapetones;Terminal
+HM25;Huayna-Capac & Mariscal Sucre;NULL
+HM25F;Huayna-Capac & Mariscal Sucre;NULL
+HC26;Huayna-Capac & Calle Larga;BANCO CENTRAL
+HC26F;Huayna-Capac & Calle Larga;BANCO CENTRAL
+AF27;Av 12 de Abril & Florencia Astudillo;NULL
+AF28;Av 12 de Abril & Ave Fray  Vicente Solano;NULL
+AF28F;Av 12 de Abril & Ave Fray  Vicente Solano;NULL
+AF29; Av 12 de Abril  &  Agustin Cueva;Universidad De Cuenca
+AF29F; Av 12 de Abril  &  Agustin Cueva;Universidad De Cuenca
+AR30;Av 12 de Abril & Remigio Tamariz Crespo;NULL
+AR30F;Av 12 de Abril & Remigio Tamariz Crespo;NULL
+Coliseo31;Av 12 de Abril & Unidad Nacional;Coliseo
+Coliseo31F;Av 12 de Abril & Unidad Nacional;Coliseo
+RE32;Ave Remigio Crespo Toral & Edwin Sacoto;NULL
+RE32F;Ave Remigio Crespo Toral & Edwin Sacoto;NULL
+AA33;Avenida de las Americas & Ecuador;Arenal
+AA33F;Avenida de las Americas & Ecuador;Arenal
+AD34;Avenida de las Americas  & Daniel Fernandez de Cordova;NULL
+AD34F;Avenida de las Americas  & Daniel Fernandez de Cordova;NULL
+AP35;Avenida de las Americas  & Av Primero de Mayo;NULL
+AP35F;Avenida de las Americas  & Av Primero de Mayo;NULL
+IL36;Av Isabel la Catolica & Av Loja;NULL
+IL36F;Av Isabel la Catolica & Av Loja;NULL
+DM37; Av Don Bosco & Miguel de Cervantes;NULL
+DM37F; Av Don Bosco & Miguel de Cervantes;NULL
+DD38; Av Don Bosco & Av Doce de Octubre;NULL
+DD38F; Av Don Bosco & Av Doce de Octubre;NULL
+DD39; Av Don Bosco & Domingo Savio;NULL
+DD39F; Av Don Bosco & Domingo Savio;NULL
+MALL40; Mall del rio;Mall Del Rio
+Banios41;Av. Ricardo Duran & La caliza;Banios
+RC42;Av Ricardo Duran & Camino Viejo a Banios;NULL
+RC42F;Av Ricardo Duran & Camino Viejo a Banios;NULL
+RS43;Av Ricardo Duran &  Salvador J. Fernandez;ControlSur
+RS43F;Av Ricardo Duran &  Salvador J. Fernandez;ControlSur
+RV44;Av Ricardo Duran &  P. Vicente Maldonado;NULL
+RV44F;Av Ricardo Duran &  P. Vicente Maldonado;NULL
+AL45;Avenida de Las Americas & Av Loja;NULL
+AL45F;Avenida de Las Americas & Av Loja;NULL
+LD46; Av Loja & Av Don Bosco;NULL
+LD46F; Av Loja & Av Don Bosco;NULL
+LI47; Av Loja & Av Isabel la Catolica;NULL
+LI47F; Av Loja & Av Isabel la Catolica;NULL
+LP48; Av Loja & Primero de Mayo;NULL
+LP48F; Av Loja & Primero de Mayo;NULL
+LR49; Av Loja & Ave Remigio Crespo Toral;NULL
+LA50; Av Loja & Av 12 de Abril;Universidad de Cuenca
+TG51;Tarqui & Gran Colombia;NULL
+TP52;Tarqui & Pio Bravo;NULL
+PM53;Pio Bravo & Manuel Vega;NULL
+Politecnica54;Calle Vieja & Avenida Elia Liut;Universidad Politecnica
+Politecnica54F;Calle Vieja & Avenida Elia Liut;Universidad Politecnica
+TA55;Turuhaico & Ave de las Americas;NULL
+TA55F;Turuhaico & Ave de las Americas;NULL
+Jacaranda56;Av de las Americas & Guagualoma;NULL
+Jacaranda56F;Av de las Americas & Guagualoma;NULL
+AP57;Av de las Americas & Paseo Rio Machangara;NULL
+AP57F;Av de las Americas & Paseo Rio Machangara;NULL
+AP58;Avenue Gonzales Suarez & Avenue Cumanda;Quinta Chica
+DG59;Av Don Bosco & El Greco;Tres Puentes
+DG59F;Av Don Bosco & El Greco;Tres Puentes
+FL60;Ave Fray Vicente Solano & Luis Moreno Mora;NULL
+FL60F;Ave Fray Vicente Solano & Luis Moreno Mora;NULL
+FT61;Ave Fray Vicente Solano & Tadeo Torres;Colegio Benigno Malo
+FT61F;Ave Fray Vicente Solano & Tadeo Torres;Colegio Benigno Malo
+LG62;Calle Larga & General Torres;Mercado 10 De Agosto
+LM63;Calle Larga & Manuel Vega;NULL
+GG64; Avenue Gonzales Suarez & Garcia Moreno;NULL
+GG64F; Avenue Gonzales Suarez & Garcia Moreno;NULL
+GO65; Avenue Gonzales Suarez & Octavio Diaz;Cementerio Municipal
+GO65F; Avenue Gonzales Suarez & Octavio Diaz;Cementerio Municipal
+TP66; Yanahurco & Paseo De los Caniaris;Totoracocha
+TP66F; Yanahurco & Paseo De los Caniaris;Totoracocha
+YN67; Yanahurco & Narrio;Totoracocha
+YN67F; Yanahurco & Narrio;Totoracocha
+YA68; Yanahurco & Ave Los Andes;Totoracocha
+YA68F; Yanahurco & Ave Los Andes;Totoracocha
+AC69; Ave Los Andes & Del Condor;Complejo de Totoracocha
+AC70;Avenue Gil Ramirez Davalos & Del Chorro;Terminal
+AM71;Antonio Vega Munioz & Manuel Vega;NULL
+AH72;Antonio Vega Munioz & Hermano Miguel;NULL
+AP73;Antonio Vega Munioz & Padre Aguirre;Maria Auxiliadora
+AD74;Antonio Vega Munioz & Daniel Alvarado;NULL
+AA75;Avenida de las Americas & Alfonso Andrade;NULL
+AA75F;Avenida de las Americas & Alfonso Andrade;NULL
+AL76;Avenida de las Americas & Luis Moscoso;NULL
+AL76F;Avenida de las Americas & Luis Moscoso;NULL
+AB77;Avenida de las Americas & Av Don Bosco;Indurama
+AB77F;Avenida de las Americas & Av Don Bosco;Indurama
+AC78;Avenida de las Americas & Camino Viejo a Banios;NULL
+AC78F;Avenida de las Americas & Camino Viejo a Banios;NULL
+AM79;Avenida de las Americas & Manuel Quiroga;NULL
+AM79F;Avenida de las Americas & Manuel Quiroga;NULL
+AJ80;Avenida de las Americas & Jose Vinueza;Coralcentro
+AJ80F;Avenida de las Americas & Jose Vinueza;Coralcentro
+PC81;Av Primero de Mayo & Carmela Malo ;Misicata
+VR82;Venezuela & Remigio Crespo;NULL
+HospReg83;Hospital Vicente Corral Moscoso;Hospital Regional
+HP84;Huayna-Capac &  Pizar-Capac;NULL
+HP84F;Huayna-Capac &  Pizar-Capac;NULL
+NH85;Nunez de Bonilla & Av. Hurtado de Mendoza;NULL
+NH85F;Nunez de Bonilla & Av. Hurtado de Mendoza;NULL
+HP86; Av. Hurtado de Mendoza & Paseo de los Canaris;Colegio Herlinda Toral
+HP86F; Av. Hurtado de Mendoza & Paseo de los Canaris;Colegio Herlinda Toral
+HA87; Av. Hurtado de Mendoza & Ave Los Andes ;NULL
+HA87F; Av. Hurtado de Mendoza & Ave Los Andes ;NULL
+DL88;Av Don Bosco & Av Loja;NULL
+DL88F;Av Don Bosco & Av Loja;NULL
+DA89;Av. Don Bosco & Av De las Americas;Indurama
+DA89F;Av. Don Bosco & Av De las Americas;Indurama
+PN90;Ave Paraiso & Nicanor Corral;Paraiso
+PN90F;Ave Paraiso & Nicanor Corral;Paraiso
+VV91;Ave Veinticuatro de Mayo & Vilcabamba;NULL
+VV91F;Ave Veinticuatro de Mayo & Vilcabamba;NULL
+AQ92;Ambato & Quito;Colegio Garaicoa
+Sayausi93;Cuenca-Molleturo-Naranjal & Av Ordonez Lazo;Sayausi
+OB94; Av Ordonez Lazo & Via a Buenos Aires;NULL
+OB94F; Av Ordonez Lazo & Via a Buenos Aires;NULL
+OT95; Av Ordonez Lazo & del Tahual;NULL
+OT95F; Av Ordonez Lazo & del Tahual;NULL
+ML96; Av Ordonez Lazo & Monsenor Leonidas Proano;NULL
+ML96F; Av Ordonez Lazo & Monsenor Leonidas Proano;NULL
+OC97; Av Ordonez Lazo & Ave. De Los Cerezos;Hotel Oro Verde
+OC97F; Av Ordonez Lazo & Ave. De Los Cerezos;Hotel Oro Verde
+TG98;Tarqui & Gaspar Sangurima;NULL
+GB99; Gaspar Sangurima & Benigno Malo;NULL
+GH100; Gaspar Sangurima & Hermano Miguel;NULL
+GM101; Gaspar Sangurima & Manuel Vega;Mercado 9 De Octubre
+MP102;Manuel Vega & Pio Bravo;NULL
+HC103;Ave Heroes de Verdeloma & Calle Vieja;Barrial Blanco
+HC103F;Ave Heroes de Verdeloma & Calle Vieja;Barrial Blanco
+SA104;Sebastian de Benalcazar & Avenue Gil Ramirez Davalos;NULL
+SA104F;Sebastian de Benalcazar & Avenue Gil Ramirez Davalos;NULL
+AM105;Antonio Vega Munoz & Manuel Vega;NULL
+AB106;Antonio Vega Munoz & Benigno Malo;NULL
+AJ107;Antonio Vega Munoz & Juan Montalvo;NULL
+PT108;Pdte Cordova & Tomas Ordonez;Centro
+PB109;Pdte Cordova & Benigno Malo;Parque Calderon
+AG110;Alfonso Andrade & Gaspar Sangurima;NULL
+GT111; Gaspar Sangurima & Tarqui;NULL
+PA112;Pdte Cordova & Avenida Tres de Noviembre;Otorongo
+TL113;Avenida Tres de Noviembre & Leon XIII;NULL
